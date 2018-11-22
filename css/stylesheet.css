@@ -1,0 +1,38 @@
+body{
+  background-color: #9bd4f5
+}
+h1{
+  color: black;
+  text-align: center;
+}
+
+h2{
+  color: white;
+  font-style: bold;
+}
+
+h3{
+  color: red;
+}
+
+em{
+  font-style: italic;
+}
+
+strong{
+  font-style: italic;
+  text-decoration: underline;
+}
+
+p{
+  font-family: lato;
+  font-size: 20px;
+}
+
+ul{
+  line-height: 20px;
+}
+
+ol{
+  line-height: 20px;
+}
